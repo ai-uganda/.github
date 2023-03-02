@@ -4,3 +4,4 @@
   </a>
 </p>
 
+<p align="center">Democratizing Machine Intelligence for Everyone</p>
